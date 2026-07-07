@@ -8,16 +8,16 @@ Welcome to the official GitHub organization for **Erebos Games**. We are a small
 
 ## 🚀 Active Projects
 
-### 🎮 [Godot Game (In Development)](https://github.com/erebos-games/godot-game)
+### 🎮 [Godot Game (In Development)](https://github.com/ereb0s-games/godot-game)
 A momentum-based multiplayer project built in the **Godot Engine**. 
 - **Features:** Advanced movement mechanics (wall-jumping), fluid sword combat, and a custom level editor.
 - **Tech:** GDScript, GDShader, Docker (for dedicated server hosting).
 - **Goal:** To create a highly moddable, "plug and play" competitive environment.
 
-### 🌐 [Team Website](https://github.com/Erebos-Games/Team-Website)
+### 🌐 [Team Website](https://github.com/ereb0s-games/Team-Website)
 The central hub for our team’s portfolio and project updates.
 - **Built with:** Clean, minimalist HTML/CSS.
-- **Access:** [Visit the Live Site](http://erebos-games.github.io/Team-Website)
+- **Access:** [Visit the Live Site](http://ereb0s-games.github.io/Team-Website)
 
 ---
 
@@ -26,7 +26,7 @@ We focus on tools that balance power with simplicity:
 * **Engines:** Godot Engine
 * **Languages:** GDScript, Python, Lua, Java
 * **Infrastructure:** Linux-based environments (SteamOS, Bazzite, Fedora), Docker
-* **Workflows:** Git, Visual Studio Code (JSONC), JetBrains Rider
+* **Workflows:** Git, Visual Studio Code, JetBrains IDEs
 
 ---
 
@@ -36,8 +36,8 @@ We believe in **modular architecture**. Whether it is a game system or a softwar
 ---
 
 ## 📫 Connect with Us
-- **GitHub:** [Erebos-Games](https://github.com/Erebos-Games)
-- **Website:** [Team Website](http://team-nullscape.github.io/Team-Website)
+- **GitHub:** [Erebos-Games](https://github.com/Ereb0s-Games)
+- **Website:** [Team Website](http://ereb0s-games.github.io/Team-Website)
 - **Email:** [murchiedaniel71@gmail.com](mailto:murchiedaniel71@gmail.com)
 
 ---
