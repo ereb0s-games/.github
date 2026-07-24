@@ -41,5 +41,6 @@ We believe in **modular architecture**. Whether it is a game system or a softwar
 - **Email:** [murchiedaniel71@gmail.com](mailto:murchiedaniel71@gmail.com)
 
 ---
-![Static Badge](https://img.shields.io/badge/Erebos-Games-yellow?style=for-the-badge&logo=godot-engine&logoColor=%23ff9900&labelColor=%23997500)
 *Built with passion in Springfield, Ohio.*
+<br>
+![Static Badge](https://img.shields.io/badge/Erebos-Games-yellow?style=for-the-badge&logo=godot-engine&logoColor=%23ff9900&labelColor=%23997500)
